@@ -1,0 +1,307 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.newbie.bwamov"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+12-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:6:5-76
+12-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:6:22-73
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:7:5-65
+13-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:7:22-62
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:8:5-81
+14-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:8:22-78
+15
+16    <uses-permission-sdk-23 android:name="android.permission.INTERNET" />
+16-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:10:5-74
+16-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:10:29-71
+17    <uses-permission-sdk-23 android:name="android.permission.ACCESS_WIFI_STATE" />
+17-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:11:5-83
+17-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:11:29-80
+18    <uses-permission-sdk-23 android:name="android.permission.CAMERA" />
+18-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:12:5-72
+18-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:12:29-69
+19    <uses-permission-sdk-23 android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+19-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:13:5-88
+19-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:13:29-85
+20
+21    <uses-feature
+21-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:15:5-17:35
+22        android:name="android.hardware.camera"
+22-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:16:9-47
+23        android:required="true" />
+23-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:17:9-32
+24
+25    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+25-->[com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:11:5-80
+25-->[com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:11:22-77
+26    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+27    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+27-->[com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:25:5-79
+27-->[com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:25:22-76
+28    <uses-permission android:name="android.permission.WAKE_LOCK" />
+28-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:25:5-68
+28-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:25:22-65
+29    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+29-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:26:5-110
+29-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:26:22-107
+30    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+30-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:26:5-82
+30-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:26:22-79
+31
+32    <application
+32-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:19:5-51:19
+33        android:allowBackup="true"
+33-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:20:9-35
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\1fc764214e8d56877c1060d24da1d5ac\core-1.1.0\AndroidManifest.xml:24:18-86
+35        android:debuggable="true"
+36        android:icon="@mipmap/ic_launcher"
+36-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:21:9-43
+37        android:label="@string/app_name"
+37-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:22:9-41
+38        android:requestLegacyExternalStorage="true"
+38-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:25:9-52
+39        android:roundIcon="@mipmap/ic_launcher_round"
+39-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:23:9-54
+40        android:supportsRtl="true"
+40-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:24:9-35
+41        android:testOnly="true"
+42        android:theme="@style/AppTheme.noActionBar" >
+42-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:26:9-52
+43        <activity android:name="com.newbie.bwamov.DetailActivity" />
+43-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:28:9-61
+43-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:28:19-49
+44        <activity android:name="com.newbie.bwamov.home.model.TiketActivity" />
+44-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:29:9-61
+44-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:29:19-59
+45        <activity android:name="com.newbie.bwamov.checkout.PilihBangkuActivity" />
+45-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:30:9-66
+45-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:30:19-63
+46        <activity android:name="com.newbie.bwamov.checkout.CheckoutActivity" />
+46-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:31:9-63
+46-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:31:19-60
+47        <activity android:name="com.newbie.bwamov.checkout.CheckoutSuccessActivity" />
+47-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:32:9-70
+47-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:32:19-67
+48        <activity android:name="com.newbie.bwamov.home.HomeActivity" />
+48-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:33:9-55
+48-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:33:19-52
+49        <activity android:name="com.newbie.bwamov.onboarding.OnboardingOneActivity" />
+49-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:34:9-70
+49-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:34:19-67
+50        <activity android:name="com.newbie.bwamov.onboarding.OnboardingTwoActivity" />
+50-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:35:9-70
+50-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:35:19-67
+51        <activity android:name="com.newbie.bwamov.onboarding.OnboardingThreeActivity" />
+51-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:36:9-72
+51-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:36:19-69
+52        <activity android:name="com.newbie.bwamov.sign.signin.SignInActivity" />
+52-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:37:9-64
+52-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:37:19-61
+53        <activity android:name="com.newbie.bwamov.sign.signup.SignUpActivity" />
+53-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:38:9-64
+53-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:38:19-61
+54        <activity android:name="com.newbie.bwamov.sign.signup.SignUpPhotoScreenActivity" />
+54-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:39:9-75
+54-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:39:19-72
+55        <activity android:name="com.newbie.bwamov.SplashScreenActivity" >
+55-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:40:9-46:20
+55-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:40:19-55
+56            <intent-filter>
+56-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:41:13-45:29
+57                <action android:name="android.intent.action.MAIN" />
+57-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:42:17-69
+57-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:42:25-66
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:44:17-77
+59-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:44:27-74
+60            </intent-filter>
+61        </activity>
+62
+63        <meta-data
+63-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:48:9-50:57
+64            android:name="preloaded_fonts"
+64-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:49:13-43
+65            android:resource="@array/preloaded_fonts" />
+65-->C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:50:13-54
+66
+67        <activity
+67-->[com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:16:9-19:68
+68            android:name="com.github.dhaval2404.imagepicker.ImagePickerActivity"
+68-->[com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:17:13-81
+69            android:screenOrientation="unspecified"
+69-->[com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:18:13-52
+70            android:theme="@style/Theme.Transparent.ImagePicker" />
+70-->[com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:19:13-65
+71        <activity
+71-->[com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:20:9-23:72
+72            android:name="com.yalantis.ucrop.UCropActivity"
+72-->[com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:21:13-60
+73            android:screenOrientation="portrait"
+73-->[com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:22:13-49
+74            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+74-->[com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:23:13-69
+75
+76        <provider
+76-->[com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:25:9-33:20
+77            android:name="androidx.core.content.FileProvider"
+77-->[com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:26:13-62
+78            android:authorities="com.newbie.bwamov.provider"
+78-->[com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:27:13-60
+79            android:exported="false"
+79-->[com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:28:13-37
+80            android:grantUriPermissions="true" >
+80-->[com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:29:13-47
+81            <meta-data
+81-->[com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:30:13-32:71
+82                android:name="android.support.FILE_PROVIDER_PATHS"
+82-->[com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:31:17-67
+83                android:resource="@xml/image_picker_provider_paths" />
+83-->[com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:32:17-68
+84        </provider>
+85
+86        <activity
+86-->[com.karumi:dexter:6.0.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\1d25a49a2411cf2a39556623f3e06717\jetified-dexter-6.0.1\AndroidManifest.xml:27:9-29:72
+87            android:name="com.karumi.dexter.DexterActivity"
+87-->[com.karumi:dexter:6.0.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\1d25a49a2411cf2a39556623f3e06717\jetified-dexter-6.0.1\AndroidManifest.xml:28:13-60
+88            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+88-->[com.karumi:dexter:6.0.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\1d25a49a2411cf2a39556623f3e06717\jetified-dexter-6.0.1\AndroidManifest.xml:29:13-69
+89
+90        <service
+90-->[com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:29:9-35:19
+91            android:name="com.google.firebase.components.ComponentDiscoveryService"
+91-->[com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:30:13-84
+92            android:directBootAware="true"
+92-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\971781bdd3add99e06f2d85aafcc76e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+93            android:exported="false" >
+93-->[com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:31:13-37
+94            <meta-data
+94-->[com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:32:13-34:85
+95                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+95-->[com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:33:17-109
+96                android:value="com.google.firebase.components.ComponentRegistrar" />
+96-->[com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:34:17-82
+97            <meta-data
+97-->[com.google.firebase:firebase-storage:19.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf733e0890401efe31a2c3a813a7a312\jetified-firebase-storage-19.1.0\AndroidManifest.xml:33:13-35:85
+98                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+98-->[com.google.firebase:firebase-storage:19.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf733e0890401efe31a2c3a813a7a312\jetified-firebase-storage-19.1.0\AndroidManifest.xml:34:17-107
+99                android:value="com.google.firebase.components.ComponentRegistrar" />
+99-->[com.google.firebase:firebase-storage:19.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf733e0890401efe31a2c3a813a7a312\jetified-firebase-storage-19.1.0\AndroidManifest.xml:35:17-82
+100            <meta-data
+100-->[com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\f9b53abed3d04cb6006672a416ebac6a\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:30:13-32:85
+101                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+101-->[com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\f9b53abed3d04cb6006672a416ebac6a\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:31:17-139
+102                android:value="com.google.firebase.components.ComponentRegistrar" />
+102-->[com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\f9b53abed3d04cb6006672a416ebac6a\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:32:17-82
+103            <meta-data
+103-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:32:13-34:85
+104                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+104-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:33:17-96
+105                android:value="com.google.firebase.components.ComponentRegistrar" />
+105-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:34:17-82
+106        </service>
+107
+108        <receiver
+108-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:29:9-33:20
+109            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+109-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:30:13-85
+110            android:enabled="true"
+110-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:31:13-35
+111            android:exported="false" >
+111-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:32:13-37
+112        </receiver>
+113        <receiver
+113-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:34:9-42:20
+114            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+114-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:35:13-100
+115            android:enabled="true"
+115-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:36:13-35
+116            android:exported="true"
+116-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:37:13-36
+117            android:permission="android.permission.INSTALL_PACKAGES" >
+117-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:38:13-69
+118            <intent-filter>
+118-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:39:13-41:29
+119                <action android:name="com.android.vending.INSTALL_REFERRER" />
+119-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:40:17-79
+119-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:40:25-76
+120            </intent-filter>
+121        </receiver>
+122
+123        <service
+123-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:44:9-47:40
+124            android:name="com.google.android.gms.measurement.AppMeasurementService"
+124-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:45:13-84
+125            android:enabled="true"
+125-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:46:13-35
+126            android:exported="false" />
+126-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:47:13-37
+127        <service
+127-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:48:9-52:72
+128            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+128-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:49:13-87
+129            android:enabled="true"
+129-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:50:13-35
+130            android:exported="false"
+130-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:51:13-37
+131            android:permission="android.permission.BIND_JOB_SERVICE" />
+131-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:52:13-69
+132
+133        <receiver
+133-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:37:9-44:20
+134            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+134-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:38:13-78
+135            android:exported="true"
+135-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:39:13-36
+136            android:permission="com.google.android.c2dm.permission.SEND" >
+136-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:40:13-73
+137            <intent-filter>
+137-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:41:13-43:29
+138                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+138-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:42:17-81
+138-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:42:25-78
+139            </intent-filter>
+140        </receiver>
+141
+142        <provider
+142-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\971781bdd3add99e06f2d85aafcc76e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+143            android:name="com.google.firebase.provider.FirebaseInitProvider"
+143-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\971781bdd3add99e06f2d85aafcc76e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+144            android:authorities="com.newbie.bwamov.firebaseinitprovider"
+144-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\971781bdd3add99e06f2d85aafcc76e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+145            android:exported="false"
+145-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\971781bdd3add99e06f2d85aafcc76e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+146            android:initOrder="100" />
+146-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\971781bdd3add99e06f2d85aafcc76e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+147
+148        <activity
+148-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e72010a8ca32d7b846e24179934f16e3\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+149            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+149-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e72010a8ca32d7b846e24179934f16e3\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+150            android:exported="false"
+150-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e72010a8ca32d7b846e24179934f16e3\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+151            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+151-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e72010a8ca32d7b846e24179934f16e3\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+152
+153        <meta-data
+153-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c27716dbb2653b05e1906601d4e67999\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+154            android:name="com.google.android.gms.version"
+154-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c27716dbb2653b05e1906601d4e67999\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+155            android:value="@integer/google_play_services_version" />
+155-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c27716dbb2653b05e1906601d4e67999\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+156    </application>
+157
+158</manifest>

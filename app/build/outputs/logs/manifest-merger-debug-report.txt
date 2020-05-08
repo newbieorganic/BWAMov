@@ -1,0 +1,627 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:2:1-53:12
+MERGED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:2:1-36:12
+MERGED from [com.karumi:dexter:6.0.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\1d25a49a2411cf2a39556623f3e06717\jetified-dexter-6.0.1\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\7ea104441d74cf9008de52fe0c3ed466\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.yalantis:ucrop:2.2.2] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf9070625c17711e1f8e16d4d2411651\jetified-ucrop-2.2.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e6de1bf12ca7e5c1164591cc7245ecb6\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\483a58b10709e50b6eec46cbb5c994da\jetified-core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e715632942fe489cc4343fb999ced0a8\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf733e0890401efe31a2c3a813a7a312\jetified-firebase-storage-19.1.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\54cf79a0db6c4c49d028fb100e528dcf\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\464fb4a92c2531d769913752d7f6b48d\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c3629a88379ce5fb42fffe0592e3b81b\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\4ca3fadb9f1db7437d1013d967548fa3\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\dc933c4d22a44ccb5724cdd95182af9a\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\f9b53abed3d04cb6006672a416ebac6a\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\09d37d4a579ef7bde5a28a8e3700c181\jetified-play-services-measurement-sdk-17.2.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5964fead43f9b2d109c1c98ab8c0e08a\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\2717ce5c179239fa7aac6448637ec4de\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\9e7f93b8b95165a9068b0567a54a27c9\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e744a39db86ff94ae6c060a8fae67221\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\971781bdd3add99e06f2d85aafcc76e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\96abf8305ff52accff04cf6f84b15ca6\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\021157980564a6ba4bc9291b9dc73d09\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e06203aae55227b09aafa8590dc41fe5\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8fd57dbbba03e6be184124c75e72d80a\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\6d9afd47b4b8511ce5b539e1528fe7f6\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\af3635d6fc2256d6b1f083c46b8719a0\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e72010a8ca32d7b846e24179934f16e3\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\ae3e76bd4f946c5e0fa8ec009e06b8d9\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\6cc0d5bc92bb9b92a0c885e9ad275d61\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\af85f7bea3e423eed849b1e49f05a468\jetified-play-services-measurement-base-17.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf98caafcff2e0244538d08f0075b64f\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\31dc0415a3673bc34083c354552b521f\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c27716dbb2653b05e1906601d4e67999\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\313f64b1c6512a2c6b78e3f186c2fbdc\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5816bc5beea8628090e5516cb77bbc52\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\4ea2d97db675d9b4076095e92ab155ec\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5dfbf5490772f0786ba09a7a154e907c\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\503510f0822bfe882334e7da34ce54d3\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\3f26d6d6c4e7d56f7c48bb59e81bddee\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\ae13a8711b4f6cd9a231ece4d0e5c600\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e742c42da0a7efb89551b8a5e6a671c0\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\b0a8d2767a682983f6cbacf1b43e66b0\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\0a938a306011dcf756e7f89e7d452c43\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\f134672f2a7ea524737c581838c370d7\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\ccb634f2f155ef917ffb8077f501274e\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\51851ffeedba4099ec959a17d33e9b99\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\eb5647bfafee60a0865afec1faf92a97\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\1fc764214e8d56877c1060d24da1d5ac\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\17ab1bf9628e93b18cddf8443cb077ae\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\680c1a7d94f0956ff19a2c4487fee51e\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a6ae124082dd1ad81a71ff15c0d62f33\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\cf0d2af0ec7d83736f43edcf72d7a9cb\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c244ac7c7231c9a4dfb9028d2fd557d0\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bc53680b462a614ea4fc8a9f1e928a4c\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58f1c2b785bbc725d3928eab2793a067\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\9f01a1aefe74049144a7567f675291e7\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5fec4d04555eb8d94fb09bae66ea5963\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a289e28777b4f0720b3e9c22586615f5\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\303e5493021714d8413fd28c71301428\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\dbeb6efeecac9f24f7978c651803a242\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\113f7d573787f04e03436206e76849dd\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf733e0890401efe31a2c3a813a7a312\jetified-firebase-storage-19.1.0\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf733e0890401efe31a2c3a813a7a312\jetified-firebase-storage-19.1.0\AndroidManifest.xml:27:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\f9b53abed3d04cb6006672a416ebac6a\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\f9b53abed3d04cb6006672a416ebac6a\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5964fead43f9b2d109c1c98ab8c0e08a\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5964fead43f9b2d109c1c98ab8c0e08a\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\6cc0d5bc92bb9b92a0c885e9ad275d61\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\6cc0d5bc92bb9b92a0c885e9ad275d61\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:7:5-65
+MERGED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:13:5-65
+MERGED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:8:5-81
+MERGED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:12:5-81
+MERGED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission-sdk-23#android.permission.INTERNET
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:10:5-74
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:10:29-71
+uses-permission-sdk-23#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:11:5-83
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:11:29-80
+uses-permission-sdk-23#android.permission.CAMERA
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:12:29-69
+uses-permission-sdk-23#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:13:5-88
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:13:29-85
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:15:5-17:35
+	android:required
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:17:9-32
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:16:9-47
+application
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:19:5-51:19
+MERGED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:15:5-34:19
+MERGED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:15:5-34:19
+MERGED from [com.karumi:dexter:6.0.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\1d25a49a2411cf2a39556623f3e06717\jetified-dexter-6.0.1\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:6.0.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\1d25a49a2411cf2a39556623f3e06717\jetified-dexter-6.0.1\AndroidManifest.xml:26:5-30:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\7ea104441d74cf9008de52fe0c3ed466\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\7ea104441d74cf9008de52fe0c3ed466\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e715632942fe489cc4343fb999ced0a8\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e715632942fe489cc4343fb999ced0a8\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf733e0890401efe31a2c3a813a7a312\jetified-firebase-storage-19.1.0\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf733e0890401efe31a2c3a813a7a312\jetified-firebase-storage-19.1.0\AndroidManifest.xml:29:5-37:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\54cf79a0db6c4c49d028fb100e528dcf\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\54cf79a0db6c4c49d028fb100e528dcf\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\464fb4a92c2531d769913752d7f6b48d\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\464fb4a92c2531d769913752d7f6b48d\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\f9b53abed3d04cb6006672a416ebac6a\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\f9b53abed3d04cb6006672a416ebac6a\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\09d37d4a579ef7bde5a28a8e3700c181\jetified-play-services-measurement-sdk-17.2.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\09d37d4a579ef7bde5a28a8e3700c181\jetified-play-services-measurement-sdk-17.2.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5964fead43f9b2d109c1c98ab8c0e08a\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5964fead43f9b2d109c1c98ab8c0e08a\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\2717ce5c179239fa7aac6448637ec4de\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\2717ce5c179239fa7aac6448637ec4de\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e744a39db86ff94ae6c060a8fae67221\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e744a39db86ff94ae6c060a8fae67221\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\971781bdd3add99e06f2d85aafcc76e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\971781bdd3add99e06f2d85aafcc76e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\021157980564a6ba4bc9291b9dc73d09\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\021157980564a6ba4bc9291b9dc73d09\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\af3635d6fc2256d6b1f083c46b8719a0\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\af3635d6fc2256d6b1f083c46b8719a0\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e72010a8ca32d7b846e24179934f16e3\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e72010a8ca32d7b846e24179934f16e3\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\ae3e76bd4f946c5e0fa8ec009e06b8d9\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\ae3e76bd4f946c5e0fa8ec009e06b8d9\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\af85f7bea3e423eed849b1e49f05a468\jetified-play-services-measurement-base-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\af85f7bea3e423eed849b1e49f05a468\jetified-play-services-measurement-base-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf98caafcff2e0244538d08f0075b64f\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf98caafcff2e0244538d08f0075b64f\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\31dc0415a3673bc34083c354552b521f\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\31dc0415a3673bc34083c354552b521f\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c27716dbb2653b05e1906601d4e67999\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c27716dbb2653b05e1906601d4e67999\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\1fc764214e8d56877c1060d24da1d5ac\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\1fc764214e8d56877c1060d24da1d5ac\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58f1c2b785bbc725d3928eab2793a067\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58f1c2b785bbc725d3928eab2793a067\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:25:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\1fc764214e8d56877c1060d24da1d5ac\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:23:9-54
+	android:icon
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:26:9-52
+activity#com.newbie.bwamov.DetailActivity
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:28:9-61
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:28:19-49
+activity#com.newbie.bwamov.home.model.TiketActivity
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:29:9-61
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:29:19-59
+activity#com.newbie.bwamov.checkout.PilihBangkuActivity
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:30:9-66
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:30:19-63
+activity#com.newbie.bwamov.checkout.CheckoutActivity
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:31:9-63
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:31:19-60
+activity#com.newbie.bwamov.checkout.CheckoutSuccessActivity
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:32:9-70
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:32:19-67
+activity#com.newbie.bwamov.home.HomeActivity
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:33:9-55
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:33:19-52
+activity#com.newbie.bwamov.onboarding.OnboardingOneActivity
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:34:9-70
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:34:19-67
+activity#com.newbie.bwamov.onboarding.OnboardingTwoActivity
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:35:9-70
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:35:19-67
+activity#com.newbie.bwamov.onboarding.OnboardingThreeActivity
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:36:9-72
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:36:19-69
+activity#com.newbie.bwamov.sign.signin.SignInActivity
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:37:9-64
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:37:19-61
+activity#com.newbie.bwamov.sign.signup.SignUpActivity
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:38:9-64
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:38:19-61
+activity#com.newbie.bwamov.sign.signup.SignUpPhotoScreenActivity
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:39:9-75
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:39:19-72
+activity#com.newbie.bwamov.SplashScreenActivity
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:40:9-46:20
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:40:19-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:44:27-74
+meta-data#preloaded_fonts
+ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:48:9-50:57
+	android:resource
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:50:13-54
+	android:name
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml:49:13-43
+uses-sdk
+INJECTED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml
+MERGED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.karumi:dexter:6.0.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\1d25a49a2411cf2a39556623f3e06717\jetified-dexter-6.0.1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:6.0.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\1d25a49a2411cf2a39556623f3e06717\jetified-dexter-6.0.1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\7ea104441d74cf9008de52fe0c3ed466\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\7ea104441d74cf9008de52fe0c3ed466\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.yalantis:ucrop:2.2.2] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf9070625c17711e1f8e16d4d2411651\jetified-ucrop-2.2.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf9070625c17711e1f8e16d4d2411651\jetified-ucrop-2.2.2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e6de1bf12ca7e5c1164591cc7245ecb6\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e6de1bf12ca7e5c1164591cc7245ecb6\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\483a58b10709e50b6eec46cbb5c994da\jetified-core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\483a58b10709e50b6eec46cbb5c994da\jetified-core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e715632942fe489cc4343fb999ced0a8\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e715632942fe489cc4343fb999ced0a8\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf733e0890401efe31a2c3a813a7a312\jetified-firebase-storage-19.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf733e0890401efe31a2c3a813a7a312\jetified-firebase-storage-19.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\54cf79a0db6c4c49d028fb100e528dcf\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\54cf79a0db6c4c49d028fb100e528dcf\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\464fb4a92c2531d769913752d7f6b48d\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\464fb4a92c2531d769913752d7f6b48d\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c3629a88379ce5fb42fffe0592e3b81b\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c3629a88379ce5fb42fffe0592e3b81b\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\4ca3fadb9f1db7437d1013d967548fa3\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\4ca3fadb9f1db7437d1013d967548fa3\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\dc933c4d22a44ccb5724cdd95182af9a\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\dc933c4d22a44ccb5724cdd95182af9a\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\f9b53abed3d04cb6006672a416ebac6a\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\f9b53abed3d04cb6006672a416ebac6a\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\09d37d4a579ef7bde5a28a8e3700c181\jetified-play-services-measurement-sdk-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\09d37d4a579ef7bde5a28a8e3700c181\jetified-play-services-measurement-sdk-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5964fead43f9b2d109c1c98ab8c0e08a\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5964fead43f9b2d109c1c98ab8c0e08a\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\2717ce5c179239fa7aac6448637ec4de\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\2717ce5c179239fa7aac6448637ec4de\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\9e7f93b8b95165a9068b0567a54a27c9\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\9e7f93b8b95165a9068b0567a54a27c9\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e744a39db86ff94ae6c060a8fae67221\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e744a39db86ff94ae6c060a8fae67221\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\971781bdd3add99e06f2d85aafcc76e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\971781bdd3add99e06f2d85aafcc76e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\96abf8305ff52accff04cf6f84b15ca6\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\96abf8305ff52accff04cf6f84b15ca6\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\021157980564a6ba4bc9291b9dc73d09\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\021157980564a6ba4bc9291b9dc73d09\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e06203aae55227b09aafa8590dc41fe5\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e06203aae55227b09aafa8590dc41fe5\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8fd57dbbba03e6be184124c75e72d80a\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8fd57dbbba03e6be184124c75e72d80a\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\6d9afd47b4b8511ce5b539e1528fe7f6\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\6d9afd47b4b8511ce5b539e1528fe7f6\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\af3635d6fc2256d6b1f083c46b8719a0\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\af3635d6fc2256d6b1f083c46b8719a0\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e72010a8ca32d7b846e24179934f16e3\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e72010a8ca32d7b846e24179934f16e3\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\ae3e76bd4f946c5e0fa8ec009e06b8d9\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\ae3e76bd4f946c5e0fa8ec009e06b8d9\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\6cc0d5bc92bb9b92a0c885e9ad275d61\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\6cc0d5bc92bb9b92a0c885e9ad275d61\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\af85f7bea3e423eed849b1e49f05a468\jetified-play-services-measurement-base-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\af85f7bea3e423eed849b1e49f05a468\jetified-play-services-measurement-base-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf98caafcff2e0244538d08f0075b64f\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf98caafcff2e0244538d08f0075b64f\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\31dc0415a3673bc34083c354552b521f\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\31dc0415a3673bc34083c354552b521f\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c27716dbb2653b05e1906601d4e67999\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c27716dbb2653b05e1906601d4e67999\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\313f64b1c6512a2c6b78e3f186c2fbdc\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\313f64b1c6512a2c6b78e3f186c2fbdc\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5816bc5beea8628090e5516cb77bbc52\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5816bc5beea8628090e5516cb77bbc52\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\4ea2d97db675d9b4076095e92ab155ec\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\4ea2d97db675d9b4076095e92ab155ec\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5dfbf5490772f0786ba09a7a154e907c\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5dfbf5490772f0786ba09a7a154e907c\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\503510f0822bfe882334e7da34ce54d3\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\503510f0822bfe882334e7da34ce54d3\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\3f26d6d6c4e7d56f7c48bb59e81bddee\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\3f26d6d6c4e7d56f7c48bb59e81bddee\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\ae13a8711b4f6cd9a231ece4d0e5c600\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\ae13a8711b4f6cd9a231ece4d0e5c600\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e742c42da0a7efb89551b8a5e6a671c0\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e742c42da0a7efb89551b8a5e6a671c0\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\b0a8d2767a682983f6cbacf1b43e66b0\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\b0a8d2767a682983f6cbacf1b43e66b0\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\0a938a306011dcf756e7f89e7d452c43\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\0a938a306011dcf756e7f89e7d452c43\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\f134672f2a7ea524737c581838c370d7\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\f134672f2a7ea524737c581838c370d7\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\ccb634f2f155ef917ffb8077f501274e\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\ccb634f2f155ef917ffb8077f501274e\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\51851ffeedba4099ec959a17d33e9b99\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\51851ffeedba4099ec959a17d33e9b99\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\eb5647bfafee60a0865afec1faf92a97\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\eb5647bfafee60a0865afec1faf92a97\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\1fc764214e8d56877c1060d24da1d5ac\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\1fc764214e8d56877c1060d24da1d5ac\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\17ab1bf9628e93b18cddf8443cb077ae\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\17ab1bf9628e93b18cddf8443cb077ae\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\680c1a7d94f0956ff19a2c4487fee51e\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\680c1a7d94f0956ff19a2c4487fee51e\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a6ae124082dd1ad81a71ff15c0d62f33\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a6ae124082dd1ad81a71ff15c0d62f33\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\cf0d2af0ec7d83736f43edcf72d7a9cb\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\cf0d2af0ec7d83736f43edcf72d7a9cb\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c244ac7c7231c9a4dfb9028d2fd557d0\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c244ac7c7231c9a4dfb9028d2fd557d0\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bc53680b462a614ea4fc8a9f1e928a4c\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bc53680b462a614ea4fc8a9f1e928a4c\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58f1c2b785bbc725d3928eab2793a067\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58f1c2b785bbc725d3928eab2793a067\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\9f01a1aefe74049144a7567f675291e7\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\9f01a1aefe74049144a7567f675291e7\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5fec4d04555eb8d94fb09bae66ea5963\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5fec4d04555eb8d94fb09bae66ea5963\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a289e28777b4f0720b3e9c22586615f5\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a289e28777b4f0720b3e9c22586615f5\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\303e5493021714d8413fd28c71301428\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\303e5493021714d8413fd28c71301428\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\dbeb6efeecac9f24f7978c651803a242\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\dbeb6efeecac9f24f7978c651803a242\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\113f7d573787f04e03436206e76849dd\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\113f7d573787f04e03436206e76849dd\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Diki Dwi Hermawan\AndroidStudioProjects\BWAMov\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:11:22-77
+activity#com.github.dhaval2404.imagepicker.ImagePickerActivity
+ADDED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:16:9-19:68
+	android:screenOrientation
+		ADDED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:18:13-52
+	android:theme
+		ADDED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:17:13-81
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:20:9-23:72
+	android:screenOrientation
+		ADDED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:22:13-49
+	android:theme
+		ADDED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:23:13-69
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:21:13-60
+provider#androidx.core.content.FileProvider
+ADDED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:25:9-33:20
+	android:grantUriPermissions
+		ADDED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:29:13-47
+	android:authorities
+		ADDED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:27:13-60
+	android:exported
+		ADDED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:26:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:30:13-32:71
+	android:resource
+		ADDED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:32:17-68
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:1.5] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c6c2bfcc6f41f5b0d03d08c01ee728e6\jetified-imagepicker-1.5\AndroidManifest.xml:31:17-67
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:6.0.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\1d25a49a2411cf2a39556623f3e06717\jetified-dexter-6.0.1\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:6.0.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\1d25a49a2411cf2a39556623f3e06717\jetified-dexter-6.0.1\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:6.0.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\1d25a49a2411cf2a39556623f3e06717\jetified-dexter-6.0.1\AndroidManifest.xml:28:13-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf733e0890401efe31a2c3a813a7a312\jetified-firebase-storage-19.1.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf733e0890401efe31a2c3a813a7a312\jetified-firebase-storage-19.1.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\f9b53abed3d04cb6006672a416ebac6a\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\f9b53abed3d04cb6006672a416ebac6a\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5964fead43f9b2d109c1c98ab8c0e08a\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5964fead43f9b2d109c1c98ab8c0e08a\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\6cc0d5bc92bb9b92a0c885e9ad275d61\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\6cc0d5bc92bb9b92a0c885e9ad275d61\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:25:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf733e0890401efe31a2c3a813a7a312\jetified-firebase-storage-19.1.0\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf733e0890401efe31a2c3a813a7a312\jetified-firebase-storage-19.1.0\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\f9b53abed3d04cb6006672a416ebac6a\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\f9b53abed3d04cb6006672a416ebac6a\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\971781bdd3add99e06f2d85aafcc76e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\971781bdd3add99e06f2d85aafcc76e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\971781bdd3add99e06f2d85aafcc76e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\971781bdd3add99e06f2d85aafcc76e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\8d0648774c54ae00be062ca5d497a959\jetified-firebase-database-19.3.0\AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf733e0890401efe31a2c3a813a7a312\jetified-firebase-storage-19.1.0\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf733e0890401efe31a2c3a813a7a312\jetified-firebase-storage-19.1.0\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\bf733e0890401efe31a2c3a813a7a312\jetified-firebase-storage-19.1.0\AndroidManifest.xml:34:17-107
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\f9b53abed3d04cb6006672a416ebac6a\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\f9b53abed3d04cb6006672a416ebac6a\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5964fead43f9b2d109c1c98ab8c0e08a\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5964fead43f9b2d109c1c98ab8c0e08a\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\6cc0d5bc92bb9b92a0c885e9ad275d61\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\6cc0d5bc92bb9b92a0c885e9ad275d61\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5964fead43f9b2d109c1c98ab8c0e08a\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5964fead43f9b2d109c1c98ab8c0e08a\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5964fead43f9b2d109c1c98ab8c0e08a\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\5964fead43f9b2d109c1c98ab8c0e08a\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\58bc612e01799e5b062bfe9035628073\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:49:13-87
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\f9b53abed3d04cb6006672a416ebac6a\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\f9b53abed3d04cb6006672a416ebac6a\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\f9b53abed3d04cb6006672a416ebac6a\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\a347c567b384e747e82c882542a06b71\jetified-firebase-iid-19.0.0\AndroidManifest.xml:42:25-78
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\971781bdd3add99e06f2d85aafcc76e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\971781bdd3add99e06f2d85aafcc76e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\971781bdd3add99e06f2d85aafcc76e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\971781bdd3add99e06f2d85aafcc76e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\971781bdd3add99e06f2d85aafcc76e3\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e72010a8ca32d7b846e24179934f16e3\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e72010a8ca32d7b846e24179934f16e3\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e72010a8ca32d7b846e24179934f16e3\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\e72010a8ca32d7b846e24179934f16e3\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c27716dbb2653b05e1906601d4e67999\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c27716dbb2653b05e1906601d4e67999\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Diki Dwi Hermawan\.gradle\caches\transforms-2\files-2.1\c27716dbb2653b05e1906601d4e67999\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

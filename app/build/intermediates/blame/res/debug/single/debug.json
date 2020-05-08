@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rectangle_blue_grey.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\shape_rectangle_blue_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_calendar_today.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_calendar_today.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_wallet.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\activity_my_wallet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_rectangle_selected.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_rectangle_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_path.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_path.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_line.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\shape_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wallet.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_notification.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\logo_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_onboardingthree.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\onboardingthree.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_onboarding_two.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\activity_onboarding_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_mov.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\logo_mov.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_item_now_playing.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\row_item_now_playing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_item_checkout.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\row_item_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tiket.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\fragment_tiket.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_history.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\activity_my_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_event_seat.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_event_seat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_local_movies.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_local_movies.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_back_white_24dp.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_arrow_back_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tiket.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_tiket.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_onboarding_one.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\activity_onboarding_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_bold.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\font\\montserrat_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_barcode2.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_barcode2.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rectangle_blue_grey_right.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\shape_rectangle_blue_grey_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rectangle_white.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\shape_rectangle_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_barcode.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_barcode.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rectangle_blue_gray.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\shape_rectangle_blue_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_star_yellow_24dp.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_star_yellow_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tiket_active.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_tiket_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_onboarding_three.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\activity_onboarding_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_background_blue.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\shape_background_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_rectangle_booked.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_rectangle_booked.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_profile.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_item_coming_soon.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\row_item_coming_soon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_onboardingtwo.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\onboardingtwo.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_rectangle_empty.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_rectangle_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_event_seat_24px.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_event_seat_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\font\\montserrat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_item_checkout_white.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\row_item_checkout_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_account_balance_wallet_24px.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_account_balance_wallet_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_checkout_success.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\activity_checkout_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_item_play.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\row_item_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pilih_bangku.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\activity_pilih_bangku.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tiket.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\activity_tiket.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rectangle_blue_grey_left.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\shape_rectangle_blue_grey_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_star_red_24dp.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_star_red_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_checkout.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_profile_active.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_profile_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_poster.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_poster.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_btn_delete.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable-v24\\ic_btn_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_setting.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_checkout_failed.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\activity_checkout_failed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_pic.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\user_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_btn_upload.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable-v24\\ic_btn_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_onboardingone.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\onboardingone.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up_photoscreen.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\activity_sign_up_photoscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_line_blue_gray.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\shape_line_blue_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_active.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\ic_home_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rectangle_pink.xml.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\shape_rectangle_pink.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\build\\intermediates\\res\\merged\\debug\\drawable_illustration_success.png.flat",
+        "source": "C:\\Users\\Diki Dwi Hermawan\\AndroidStudioProjects\\BWAMov\\app\\src\\main\\res\\drawable\\illustration_success.png"
+    }
+]
